@@ -64,13 +64,13 @@ This builds the Next.js app for production and starts a server that serves the p
 ## Screenshots
 | Operation                     | Screenshot                                |
 |------------------------------|--------------------------------------------|
-| ✅ Upload file              | ![Upload](Screenshots/Screenshot%20(70).png) |
-| ✅ Error - no price         | ![Error](Screenshots/Screenshot%20(69).png) |
-| ✅ Error - no name          | ![Error](Screenshots/Screenshot%20(68).png) |
-| ✅ Item Added            | ![Error](Screenshots/Screenshot%20(67).png) |
-| ✅ Weather - London         | ![Weather](Screenshots/Screenshot%20(65).png) |
-| ✅ Weather - Pune           | ![Weather](Screenshots/Screenshot%20(64).png) |
-| ✅ Weather - US             | ![Weather](Screenshots/Screenshot%20(66).png) |
+| ✅ About US        | ![Weather](Screenshots/Screenshot%20(65).png) |
+| ✅ Home             | ![Weather](Screenshots/Screenshot%20(66).png) |
+| ✅ Submit Feedback            | ![Error](Screenshots/Screenshot%20(67).png) |
+| ✅ All Feedback          | ![Error](Screenshots/Screenshot%20(68).png) |
+| ✅ Reviewed Feedback         | ![Error](Screenshots/Screenshot%20(69).png) |
+| ✅ Feedback deleted              | ![Upload](Screenshots/Screenshot%20(70).png) |
+| ✅ Logout           | ![Weather](Screenshots/Screenshot%20(64).png) |
 
 ## Contributing
 
